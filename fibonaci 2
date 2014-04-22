@@ -19,6 +19,14 @@ public static void main(String[] args) {
       x+=f.Fibonaci(i);
 	  }
         System.out.print(x);
+        
+        
+        
+        
+        
+        
+        
+        
     }
 }
 
